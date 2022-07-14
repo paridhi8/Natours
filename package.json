@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": 
+    "url": "git+https://github.com/paridhi8/Natours.git"
   },
   "author": "Paridhi",
   "license": "ISC",
